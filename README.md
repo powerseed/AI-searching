@@ -11,8 +11,7 @@ where:
 <br>
 The first line of input will be the number of rows and columns in the world. The world will always be surrounded by walls. The following symbols are used:
 
-* @: the initial position of the secret agent (there will only be one of these)
-<br>
+@: the initial position of the secret agent (there will only be one of these)
 terrain by movement cost:
 * : (space) cost = 1
 * .: cost = 2
