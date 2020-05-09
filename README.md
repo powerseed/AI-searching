@@ -13,7 +13,7 @@ The first line of input will be the number of rows and columns in the world. The
 
 @: the initial position of the secret agent (there will only be one of these)
 <br>
-terrain by movement cost:
+Terrain by movement cost:
 <br>
 : (space) cost = 1
 <br>
@@ -32,4 +32,5 @@ bombs: A to Z where the timer is set to 10 * the ordinal value of the letter (A 
 <br>
 Sample output:
 ![alt text](https://github.com/powerseed/Mission-Possible/blob/master/sample%20output.png "Sample output")
+<br>
 Ready-made inputs could be found in `Ready-made Input.txt`
