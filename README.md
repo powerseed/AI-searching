@@ -26,3 +26,5 @@ terrain by movement cost:
 Sample output:
 <br>
 ![alt text](https://github.com/powerseed/Mission-Possible/blob/master/sample%20output.png "Sample output")
+<br>
+Ready-made inputs could be found in `Ready-made Input.txt`
