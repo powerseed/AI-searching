@@ -1,5 +1,5 @@
-# Mission-Possible
-This is a school assignment of AI, which calculates the optimal routine for an agent to take to resolve the largest number of bombs in a game world.
+# AI-searching
+This is a school assignment of AI written in Java, which uses searching algorithems to calculate the optimal routine for an agent to take to resolve the largest number of bombs in a game world.
 <br>
 After running the `main` method, please enter the text-based game world in the console.
 <br>
