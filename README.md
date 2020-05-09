@@ -31,6 +31,7 @@ bombs: A to Z where the timer is set to 10 * the ordinal value of the letter (A 
 <br>
 <br>
 Sample output:
+<br>
 ![alt text](https://github.com/powerseed/Mission-Possible/blob/master/sample%20output.png "Sample output")
 <br>
 Ready-made inputs could be found in `Ready-made Input.txt`
