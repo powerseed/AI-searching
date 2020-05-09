@@ -12,12 +12,12 @@ The first line of input will be the number of rows and columns in the world. The
 
 ⋅⋅* @: the initial position of the secret agent (there will only be one of these)
 terrain by movement cost:
-⋅⋅* : (space) cost = 1
-⋅⋅* .: cost = 2
-⋅⋅* :: cost = 3
-⋅⋅* !: cost = 4
-⋅⋅* $: cost = 5
-⋅⋅* #: wall (cannot move through)
-⋅⋅* bombs: A to Z where the timer is set to 10 * the ordinal value of the letter (A is 1, and therefore has timer value 10)
+* : (space) cost = 1
+* .: cost = 2
+* :: cost = 3
+* !: cost = 4
+* $: cost = 5
+* #: wall (cannot move through)
+* bombs: A to Z where the timer is set to 10 * the ordinal value of the letter (A is 1, and therefore has timer value 10)
 
 
