@@ -9,7 +9,7 @@ Sample input:
 <br>
 where:
 <br>
-The first line of input will be the number of rows and columns in the world. The world will always be surrounded by walls. The following symbols are used:
+The first line of input contains the numbers of rows and columns in the world. The world should always be surrounded by walls. The following symbols are used:
 
 @: the initial position of the secret agent (there will only be one of these)
 <br>
