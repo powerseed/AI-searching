@@ -1,5 +1,5 @@
 # AI-searching
-An AI assignment written in Java that uses searching algorithems to calculate the optimal route for an agent to resolve the largest number of bombs in a game world.
+An AI assignment written in Java that uses searching algorithms to calculate the optimal route for an agent to resolve the largest number of bombs in a game world.
 <br>
 After running the `main` method, please enter the text-based game world in the console.
 <br>
